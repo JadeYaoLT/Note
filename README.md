@@ -1,8 +1,8 @@
 # Career
 ## Field
-Frontend: flat learning curves; being able to focus on one framework
-Backend: have to switch between frameworks through your career
-DevOps: relatively steep learning curves
+- Frontend: flat learning curves; being able to focus on one framework
+- Backend: have to switch between frameworks through your career
+- DevOps: relatively steep learning curves
 
 ## Framework
 React: https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks-in-2022/
