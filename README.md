@@ -20,6 +20,6 @@ React: https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks
 - Being able to present three React projects in resume from Github. 1 Mar 2023
 
 # Plan
-At least one github push each day
-7 hours study each week
-Review study process fornighly
+- At least one github push each day
+- 7 hours study each week
+- Review study process fornighly
