@@ -22,4 +22,4 @@ React: https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks
 # Plan
 - At least one github push each day
 - 7 hours study each week
-- Review study process fornighly
+- Review study process fornightly
