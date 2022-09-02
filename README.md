@@ -8,10 +8,10 @@
 React: https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks-in-2022/
 
 ## Language
-JavaScript
-HTML
-CSS
-TypeScript
+- JavaScript
+- HTML
+- CSS
+- TypeScript
 
 # Goal
 - Become beginner level of above four languages. 1 Dec 2022
