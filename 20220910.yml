@@ -1,0 +1,5 @@
+Course: "JavaScript as an external file" and "Modern JavaScript loading"
+Note: |
+  git add .
+  git commit -m 'discription'
+  git push
