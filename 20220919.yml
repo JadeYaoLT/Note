@@ -1,0 +1,8 @@
+Course: "Object Containers - Accessing object properties"
+Note:
+"console log("the backpack object:" console log means let it show in the console directly
+"const backpack = {} inside of soft backet is an object"
+Const backpack = {
+  name: "everyday backpack"
+  volume: xxx
+}
